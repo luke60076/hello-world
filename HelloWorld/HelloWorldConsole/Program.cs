@@ -12,7 +12,7 @@ namespace HelloWorldConsole
         {
             Console.WriteLine("Hello World !!!");
 	        Console.WriteLine("Press any key to continue ...");
-	        Console.ReadLine();
+	        Console.ReadKey();
         }
     }
 }
