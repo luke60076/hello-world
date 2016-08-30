@@ -10,6 +10,7 @@ namespace HelloWorldConsole
     {
         static void Main(string[] args)
         {
+	    Console.ReadLine();
         }
     }
 }
