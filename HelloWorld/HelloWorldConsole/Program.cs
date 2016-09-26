@@ -10,7 +10,7 @@ namespace HelloWorldConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello New World !!!");
+            Console.WriteLine("Hello New World 2nd Edition!!!");
             Console.WriteLine("My first application.");
 	        Console.WriteLine("Press any key to continue ...");
 	        Console.ReadKey();
