@@ -11,7 +11,7 @@ namespace HelloWorldConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello New World !!!");
-            Console.WriteLine("My first application.");
+            Console.WriteLine("My second application.");
 	        Console.WriteLine("Press any key to continue ...");
 	        Console.ReadKey();
         }
